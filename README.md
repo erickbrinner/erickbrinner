@@ -5,8 +5,6 @@
 - 🌱 Aprendendo mais sobre C#, POO e banco de dados.
 ## Minhas Skills
 
-**Aplicações e dados**
-
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
