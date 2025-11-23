@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no UniCEUB.
-- 🌱 Aprendendo mais sobre C#, POO e banco de dados.
+-  Explorando novas tecnologias e desenvolvendo soluções de software.
+-  Estudando Análise e Desenvolvimento de Sistemas no UniCEUB.
+-  Aprendendo mais sobre C#, POO e banco de dados.
 ## Minhas Skills
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
