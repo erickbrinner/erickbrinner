@@ -20,13 +20,6 @@ Sou um desenvolvedor apaixonado por **[Sua Área, ex: Desenvolvimento Web / Data
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&theme=dracula)
-
----
-
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](LINK_DO_SEU_SITE)
