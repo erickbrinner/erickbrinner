@@ -1,29 +1,29 @@
-# Olá, eu sou o Erick
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+## Olá! Eu sou o Erick.
 
-Sou um Desenvolvedor de Software com foco em Back-end, buscando criar soluções robustas e eficientes.
+### 👨🏻‍💻 &nbsp;Sobre Mim
 
-Possuo conhecimento em Infraestrutura de Redes e estou atualmente cursando Análise e Desenvolvimento de Sistemas no UniCEUB.
+- 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB.
+- 💻 &nbsp; Desenvolvedor de Software com foco principal em **Back-end**.
+- 🧠 &nbsp; Possuo uma sólida bagagem de conhecimento em **Infraestrutura de Redes**.
+- 🌱 &nbsp; Explorando novas tecnologias e buscando soluções robustas e eficientes.
 
----
+### 🛠 &nbsp;Minha Tech Stack
 
-### Minha Tech Stack
-
-Estas são as principais tecnologias e ferramentas com as quais eu trabalho:
+Aqui estão as tecnologias que eu utilizo, usando o estilo de badge do exemplo (fundo escuro e estilo `flat`):
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| Linguagens/Frameworks | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-| Web | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| Banco de Dados | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
-| Ferramentas | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| 💻 | ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=512BD4) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396) |
+| 🌐 | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6) |
+| 🛢 | ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite&logoColor=4479A1) |
+| ⚙️ | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED) |
 
----
+<br/>
 
-### Conecte-se Comigo
+### 🤝🏻 &nbsp;Conecte-se Comigo
 
-Estou sempre aberto a novas conexões e discussões sobre tecnologia.
-
-| Rede/Contato | Link |
-| :--- | :--- |
-| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erickbsbatista) |
-| E-mail | [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickbrinners@gmail.com) |
+<p align="center">
+<a href="https://linkedin.com/in/erickbsbatista"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Erick%20Batista-0A66C2?style=flat-square&logo=linkedin"></a>
+<a href="mailto:erickbrinners@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-erickbrinners@gmail.com-D14836?style=flat-square&logo=gmail"></a>
+</p>
