@@ -16,8 +16,6 @@
 | 🛢 | ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite&logoColor=4479A1) |
 | ⚙️ | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED) |
 
-<br/>
-
 ### 🤝🏻 &nbsp;Conecte-se Comigo
 
 <p align="center">
