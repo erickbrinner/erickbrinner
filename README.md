@@ -9,8 +9,6 @@
 
 ### 🛠 &nbsp;Minha Tech Stack
 
-Aqui estão as tecnologias que eu utilizo, usando o estilo de badge do exemplo (fundo escuro e estilo `flat`):
-
 | Categoria | Tecnologias |
 | :--- | :--- |
 | 💻 | ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=512BD4) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396) |
