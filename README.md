@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 &nbsp; Currently studying **Analysis and Systems Development** at UniCEUB.
-- 💻 &nbsp; Software Developer with a primary focus on **Back-end**.
-- 🧠 &nbsp; Knowledge in **Network Infrastructure**.
+- 🎓 &nbsp; Currently studying Analysis and Systems Development at UniCEUB.
+- 💻 &nbsp; Software Developer with a primary focus on Back-end.
+- 🧠 &nbsp; Knowledge in Network Infrastructure.
 - 🌱 &nbsp; Exploring new technologies and seeking robust and efficient solutions.
 
 ### 🛠 &nbsp;My Tech Stack
