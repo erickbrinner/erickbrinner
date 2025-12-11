@@ -1,34 +1,33 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá! 👋 Eu sou o Erick
 
-## 🚀 Desenvolvedor Poliglota
-Sou um engenheiro de software com experiência em **Backend** (principalmente com .NET e Java) e **Python** para automação e análise de dados. Focado em arquiteturas escaláveis e melhores práticas de desenvolvimento.
+Sou um **Desenvolvedor de Software** com foco em **Back-end**, buscando criar soluções robustas e eficientes. Possuo uma bagagem de conhecimento também em **Infraestrutura de Redes**, o que me permite ter uma visão mais completa no desenvolvimento de aplicações.
 
-- 🔭 Atualmente trabalhando como **[Sua Posição, ex: Desenvolvedor Sênior em Cloud]**
-- 🌱 Explorando novos padrões de design e otimização de consultas **SQL**
-- 💬 Pergunte-me sobre **migração de aplicações legadas para microsserviços**
-- 🤝 Aberto a colaborações em projetos de **código aberto (Open Source)**
+---
 
-## 🛠️ Minha Tech Stack
+### 🎓 Educação
 
-### Linguagens e Frameworks Principais
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+Estou atualmente cursando **Análise e Desenvolvimento de Sistemas** no **UniCEUB**.
 
-### Web, Banco de Dados e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-## ⚡ Estatísticas do GitHub
-> **Nota:** As estatísticas só serão exibidas após você preencher o campo `[SEU-USUARIO-AQUI]` com seu nome de usuário.
+### 💻 Minha Tech Stack
 
-![Estatísticas Gerais do seu GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=vue)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=vue)
+Estas são as principais tecnologias e ferramentas com as quais eu trabalho:
 
-## 🔗 Conecte-se comigo
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens/Frameworks** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Ferramentas/Infra** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu-email@exemplo.com])
+---
+
+### 📬 Conecte-se Comigo
+
+Estou sempre aberto a novas conexões e discussões sobre tecnologia.
+
+| Rede/Contato | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erickbsbatista) |
+| **E-mail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickbrinners@gmail.com) |
