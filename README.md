@@ -1,12 +1,8 @@
 # Olá, eu sou o Erick
 
-Sou um **Desenvolvedor de Software** com foco em **Back-end**, buscando criar soluções robustas e eficientes. Possuo conhecimento em **Infraestrutura de Redes**, o que me proporciona uma visão completa no desenvolvimento de aplicações.
+Sou um **Desenvolvedor de Software** com foco em **Back-end**, buscando criar soluções robustas e eficientes.
 
----
-
-### Educação
-
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UniCEUB**.
+Possuo conhecimento em **Infraestrutura de Redes** e estou atualmente cursando **Análise e Desenvolvimento de Sistemas** no **UniCEUB**.
 
 ---
 
