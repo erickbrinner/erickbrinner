@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-- 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB.
-- 💻 &nbsp; Desenvolvedor de Software com foco principal em **Back-end**.
-- 🧠 &nbsp; Possuo uma sólida bagagem de conhecimento em **Infraestrutura de Redes**.
+- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas no UniCEUB.
+- 💻 &nbsp; Desenvolvedor de Software com foco principal em Back-end.
+- 🧠 &nbsp; Possuo conhecimento em Infraestrutura de Redes.
 - 🌱 &nbsp; Explorando novas tecnologias e buscando soluções robustas e eficientes.
 
 ### 🛠 &nbsp;Minha Tech Stack
